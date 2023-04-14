@@ -1,2 +1,2 @@
 # test-shop.github.io
-E-Commerce
+This is a E-comerce website built in HTML CSS .
